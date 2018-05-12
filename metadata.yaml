@@ -1,0 +1,29 @@
+_repo: Personal-Friendships-of-Jesus_27349
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Miller, J. R. (James Russell)
+    alias: Miller, James Russell
+    birthdate: 1840
+    deathdate: 1912
+    gutenberg_agent_id: '8546'
+    url: http://www.gutenberg.org/2009/agents/8546
+    wikipedia: http://en.wikipedia.org/wiki/J._R._Miller
+description: ''
+gutenberg_issued: '2008-11-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27349'
+  lccn: '35032575'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jesus Christ -- Friends and associates'
+- !lcc 'BT'
+title: Personal Friendships of Jesus
+url: http://www.gutenberg.org/ebooks/27349
